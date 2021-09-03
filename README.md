@@ -10,3 +10,5 @@ in very challenging task. The majority of works are concentrated on monolingual 
 presumption that there are no cultural diversity between utterers. However, the multi-lingual emotion classification
 process have been considered in some research.
 ![image](https://user-images.githubusercontent.com/57681167/132043303-47032033-5d6d-48af-8274-688bb02b0f4c.png)
+
+#Datasets:
