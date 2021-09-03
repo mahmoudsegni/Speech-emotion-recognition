@@ -28,8 +28,6 @@ you can find the dataset here:
 ## http://kahlan.eps.surrey.ac.uk/savee/
 ### Our data after some preprocessing looks like
 ![image](https://user-images.githubusercontent.com/57681167/132044483-36aa02e6-6cb0-47bb-9d85-d7c40ea69f80.png)
-### overviow of the number of samples per classe :
-![image](https://user-images.githubusercontent.com/57681167/132044611-c6c3e3fe-1b7f-429a-8c5a-50c048959a90.png)
 ### We can also plot waveplots and spectograms for audio signals
 
 Waveplots - Waveplots let us know the loudness of the audio at a given time.
